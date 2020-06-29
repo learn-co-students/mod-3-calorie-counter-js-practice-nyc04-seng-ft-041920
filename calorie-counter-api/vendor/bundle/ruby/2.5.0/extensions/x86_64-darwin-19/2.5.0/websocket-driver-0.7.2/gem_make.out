@@ -1,0 +1,15 @@
+current directory: /Users/devtzi/dev/code/Mod3/weekendp/mod-3-calorie-counter-js-practice-nyc04-seng-ft-041920/calorie-counter-api/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.2/ext/websocket-driver
+/Users/devtzi/.rvm/rubies/ruby-2.5.0/bin/ruby -I /Users/devtzi/.rvm/rubies/ruby-2.5.0/lib/ruby/site_ruby/2.5.0 -r ./siteconf20200628-48332-fmc6q3.rb extconf.rb
+creating Makefile
+
+current directory: /Users/devtzi/dev/code/Mod3/weekendp/mod-3-calorie-counter-js-practice-nyc04-seng-ft-041920/calorie-counter-api/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.2/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /Users/devtzi/dev/code/Mod3/weekendp/mod-3-calorie-counter-js-practice-nyc04-seng-ft-041920/calorie-counter-api/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.2/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/devtzi/dev/code/Mod3/weekendp/mod-3-calorie-counter-js-practice-nyc04-seng-ft-041920/calorie-counter-api/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.2/ext/websocket-driver
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 websocket_mask.bundle ./.gem.20200628-48332-eram5w

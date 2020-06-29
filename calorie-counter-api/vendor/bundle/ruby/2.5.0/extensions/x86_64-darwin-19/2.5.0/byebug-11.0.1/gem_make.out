@@ -1,0 +1,19 @@
+current directory: /Users/devtzi/dev/code/Mod3/weekendp/mod-3-calorie-counter-js-practice-nyc04-seng-ft-041920/calorie-counter-api/vendor/bundle/ruby/2.5.0/gems/byebug-11.0.1/ext/byebug
+/Users/devtzi/.rvm/rubies/ruby-2.5.0/bin/ruby -I /Users/devtzi/.rvm/rubies/ruby-2.5.0/lib/ruby/site_ruby/2.5.0 -r ./siteconf20200628-34490-1fnb6xr.rb extconf.rb
+creating Makefile
+
+current directory: /Users/devtzi/dev/code/Mod3/weekendp/mod-3-calorie-counter-js-practice-nyc04-seng-ft-041920/calorie-counter-api/vendor/bundle/ruby/2.5.0/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/devtzi/dev/code/Mod3/weekendp/mod-3-calorie-counter-js-practice-nyc04-seng-ft-041920/calorie-counter-api/vendor/bundle/ruby/2.5.0/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/devtzi/dev/code/Mod3/weekendp/mod-3-calorie-counter-js-practice-nyc04-seng-ft-041920/calorie-counter-api/vendor/bundle/ruby/2.5.0/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 byebug.bundle ./.gem.20200628-34490-1g0bu9n/byebug
